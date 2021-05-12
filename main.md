@@ -37,6 +37,7 @@
 1. ショートカットを開く
 1. 起動手順
 
+---
 	# Tab
 	class abc:
 		def hoge:
@@ -48,7 +49,7 @@
 	class abc:
 	    def hoge:
 		    print "Hello world!"
-
+---
 *italic*
 **bold**
 ***bold_italic***
@@ -58,7 +59,7 @@
 class abc:
   def defg:
     print 'hijkl'
-
+~~~
 |比較1|比較2||比較3|
 |:--|--:|:--:|
 |a|b|c|
